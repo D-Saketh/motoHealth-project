@@ -21,7 +21,7 @@ Database	Supabase (PostgreSQL)
 Styling	Tailwind CSS + DaisyUI + Shadcn Components
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/TrineshCh/motoHealth-Trail.git
+git clone https://github.com/D-Saketh/motoHealth-Trail.git
 cd MotoHealth
 
 2. Setup Frontend
